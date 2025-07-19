@@ -12,7 +12,7 @@ I'm a passionate full-stack developer who recently completed a software developm
 - 🌱 Currently learning: Docker, CI/CD, and advanced Django patterns.
 - 👯 Looking to collaborate on: Open-source Django or Python-based projects.
 - 💬 Ask me about: Django, DRF, SQL, Git, or debugging complex issues.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simphiwe-nhlabati/) • [Email](mailto:your_email@example.com)
+- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/simphiwe-nhlabati-691106327/)) 
 - ⚡ Fun fact: I can turn coffee into code ☕
 
 ---
@@ -29,7 +29,6 @@ I'm a passionate full-stack developer who recently completed a software developm
 ### 🛢️ Database
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Others
 
