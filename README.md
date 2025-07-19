@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Simphiwe Nhlabati
+# 👋 Hi, I'm Simphiwe Nhlabati
 
 **Aspiring Software Developer | Django Enthusiast | Open Source Contributor**
 
@@ -19,11 +19,55 @@ I'm a passionate full-stack developer who recently completed a software developm
 
 ## 🛠️ Tech Stack
 
-```python
-Languages: Python, SQL
-Frameworks: Django, Django REST Framework
-Database: MariaDB, PostgreSQL (learning)
-Tools: Git, GitHub, Docker, VS Code, Postman
+### 👨‍💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛢️ Database
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simphiwe-Nhlabati&show_icons=true&theme=github_dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simphiwe-Nhlabati&layout=compact&theme=github_dark" height="150">
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔹 [Hyper_News](https://github.com/Simphiwe-Nhlabati/Django-Project)  
+  A multi-role news publishing app with custom user roles, subscriptions, newsletters, and RESTful APIs.
+
+- 🔹 _More coming soon..._
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simphiwe-nhlabati/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Simphiwe-Nhlabati)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 
 <!--
 **Simphiwe-Nhlabati/Simphiwe-Nhlabati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
