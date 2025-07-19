@@ -51,7 +51,7 @@ I'm a passionate full-stack developer who recently completed a software developm
 
 ## 🚀 Projects
 
-- 🔹 [Hyper_News](https://github.com/Simphiwe-Nhlabati/Django-Project)  
+- 🔹 [Hyper_News](https://github.com/Simphiwe-Nhlabati/Django-Caps)  
   A multi-role news publishing app with custom user roles, subscriptions, newsletters, and RESTful APIs.
 
 - 🔹 _More coming soon..._
