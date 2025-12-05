@@ -1,107 +1,107 @@
-# 👋 Hey, I'm **Simphiwe Nhlabati (Voetie)**  
+# 👋 Hey, I'm **Simphiwe Nhlabati (Voetie)**
 
-**Aspiring Data Scientist | Machine Learning Engineer | Python Developer**
-
----
-
-## 🧠 About Me  
-
-I’m a software developer turned data enthusiast, passionate about using **machine learning and analytics** to solve real-world problems.  
-After completing a software engineering bootcamp, I started building hands-on projects that combine **Python, data analysis, and model deployment** to create smart, data-driven systems.  
-
-My mission is to grow into a **Machine Learning Engineer** who builds impactful AI-powered applications — from data cleaning and model development to API deployment and visualization.  
-
-- 🎯 **Goal:** Become a production-ready ML Engineer.  
-- 📚 **Currently learning:** TensorFlow, model optimization, and deployment with Docker + FastAPI.  
-- 🔍 **Interests:** Predictive analytics, recommendation systems, and data visualization.  
-- ☕ **Fun fact:** I debug machine learning pipelines better with a cup of coffee in hand.  
+**Junior Full-Stack Developer | JavaScript/TypeScript Enthusiast | Future Cloud & AI Engineer**
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 About Me
 
-### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+I'm a full-stack developer focused on building modern, responsive, and scalable web applications. My journey started in Python and Machine Learning, which strengthened my analytical thinking and ability to build data-driven systems. Today, I’m applying that foundation to create smooth, efficient, and production-ready full-stack solutions.
 
-### 📊 Data Science & Machine Learning  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+I’m actively working toward becoming a well‑rounded **Full-Stack Developer**, combining frontend excellence, backend engineering, and cloud-ready architecture.
 
-### 🛢️ Databases & Tools  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+* 🎯 **Target Role:** Full-Stack Developer (React | Next.js | Node.js/Nest.js)
+* 📚 **Currently Learning:** React, TypeScript, Next.js, Node.js/Nest.js, Express.js, Prisma ORM, PostgreSQL
+* 🛠️ **Still Using:** Django for backend architecture and rapid API prototyping
+* 🚧 **Long-Term Vision:** Full-Stack AI Engineer
 
 ---
 
-## 🚀 Featured Projects  
+## 🧩 Tech Stack
 
-### 🧠 [**Loan Approval Prediction App**](#)
-A machine learning web app that predicts loan eligibility using **logistic regression** and **SMOTE** to handle imbalanced datasets.  
+### 🌐 **Web Development (Current Focus)**
 
-> **Tech:** FastAPI, scikit-learn, Pandas  
-> **Concepts:** Binary classification, data preprocessing, model persistence (.pkl)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge\&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
----
+### 🐍 **Previous Machine Learning & Backend Experience**
 
-### 🧍‍♂️ [**Customer Segmentation**](#)
-Used **K-Means clustering** to segment customers based on purchase behavior and spending score.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 
-> **Tech:** Pandas, scikit-learn, Matplotlib  
-> **Concepts:** Clustering, feature scaling, unsupervised learning  
+### 🧰 **Tools & Databases**
 
----
-
-### 🎓 [**Student Performance Prediction**](#)
-Predicted student performance using regression models to identify key factors affecting exam results.  
-
-> **Tech:** scikit-learn, Pandas, Seaborn  
-> **Concepts:** Regression, feature selection, exploratory data analysis  
-
----
-
-### 🎥 [**Movie Recommendation System**](#)
-Built a **FastAPI-based recommender system** using collaborative filtering to suggest movies based on user similarity.  
-
-> **Tech:** FastAPI, Pandas, NumPy  
-> **Concepts:** Similarity metrics, recommendation systems, API integration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-### 🛍️ [**Smart Retail Forecasting**](#)
-Forecasted retail store sales using regression and time-series techniques to support business decisions.  
+## 🎯 Current Roadmap & Vision
 
-> **Tech:** scikit-learn, Pandas, Matplotlib  
-> **Concepts:** Forecasting, feature engineering, model evaluation, regression, classification  
+### 🔥 What I'm Focused On
+
+* Modern frontend architecture using React & Next.js
+* Backend engineering with Node.js/Nest.js
+* Strong TypeScript foundations
+* Database-first development using Prisma + PostgreSQL
+* Building robust APIs and microservices
+
+### 🧭 Long-Term Direction
+
+* Full-Stack AI Engineering
+* Cloud-native deployment pipelines
+* Integrating ML systems into real-world web applications
 
 ---
 
+## 📌 Featured Machine Learning Projects
+
+*Although I’ve shifted focus, these projects shaped my engineering foundation.*
+
+### 🧠 Loan Approval Prediction
+
+Binary classification with model persistence and FastAPI deployment.
+
+### 🎥 Movie Recommender API
+
+Collaborative filtering engine delivered as an API.
+
+### 🛍️ Smart Retail Forecasting
+
+Predictive analytics and time-series analysis for sales insights.
+
+### 🧍 Customer Segmentation
+
+Unsupervised clustering using K-Means for user behavior insights.
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simphiwe-Nhlabati&show_icons=true&theme=github_dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simphiwe-Nhlabati&layout=compact&theme=github_dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simphiwe-Nhlabati&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simphiwe-Nhlabati&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
 
-## 🌍 Connect With Me  
+## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simphiwe-nhlabati-691106327/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Simphiwe-Nhlabati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/simphiwe-nhlabati-691106327/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Simphiwe-Nhlabati)
 
 ---
 
-_“Without data, you’re just another person with an opinion.” – W. Edwards Deming_  
+*“Every line of code is a step toward the developer I want to become.”*
