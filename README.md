@@ -31,7 +31,7 @@ I’m actively working toward becoming a well‑rounded **Full-Stack Developer**
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge\&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🐍 **Previous Machine Learning & Backend Experience**
+### 🐍 **Previous Machine Learning & Backend Experience (Experimental)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
@@ -52,10 +52,10 @@ I’m actively working toward becoming a well‑rounded **Full-Stack Developer**
 
 ### 🔥 What I'm Focused On
 
-* Modern frontend architecture using React & Next.js
-* Backend engineering with Node.js/Nest.js
+* Modern frontend architecture using React & Next.js and modern state management like Zustand
+* Backend engineering with Node.js/Bun.js, Nest.js, Express.js and Hono.js
 * Strong TypeScript foundations
-* Database-first development using Prisma + PostgreSQL
+* Database-first development using TypeORM/DrizzleORM/PrismaORM + PostgreSQL/MariaDB
 * Building robust APIs and microservices
 
 ### 🧭 Long-Term Direction
@@ -66,25 +66,25 @@ I’m actively working toward becoming a well‑rounded **Full-Stack Developer**
 
 ---
 
-## 📌 Featured Machine Learning Projects
+## 📌 Featured Full-Stack Projects
 
-*Although I’ve shifted focus, these projects shaped my engineering foundation.*
+*I am expanding my knowledge to the frontend like react and typescript*
 
-### 🧠 Loan Approval Prediction
+### 🧠 University Web Application
 
-Binary classification with model persistence and FastAPI deployment.
+A full-stack web application that uses a structured folder using Nest.js.
 
-### 🎥 Movie Recommender API
+### 🎥 Invoice Payment Tracker
 
-Collaborative filtering engine delivered as an API.
+A secure platform to track invoices and payments.
 
-### 🛍️ Smart Retail Forecasting
+### 🛍️ Expense-Sharing Settlement Platform
 
-Predictive analytics and time-series analysis for sales insights.
+Platform where a user can invite people and tracke their expeneses.
 
-### 🧍 Customer Segmentation
+### 🧍 News Web Application
 
-Unsupervised clustering using K-Means for user behavior insights.
+A mutli role platform that consists of reader, journalist and editor.
 
 ---
 
